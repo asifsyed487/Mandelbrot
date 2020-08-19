@@ -1,0 +1,2 @@
+# Mandelbrot
+Generate images in the Mandelbrot set, which is a well known fractal structure. You can know in detail about this set in http://en.wikipedia.org/wiki/Mandelbrot_set. The set is interesting both mathematically and aesthetically because it has an infinitely recursive structure. You can zoom into any part and find swirls, spirals, snowflakes, and other fun structures, as long as you are willing to do enough computation.
